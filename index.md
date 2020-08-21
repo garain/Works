@@ -23,15 +23,15 @@ The app uses one heroku dyno, so it faces loading issues sometimes. Once you go 
 
 ## Algorithms supported
 
-1) Support Vector Machine (SVM)
-2) Logistic Regression
-3) Random Forest
-4) Nearest Neighbors
-5) Decision Tree 
-6) Neural Net(MLP)
-7) AdaBoost(Decision Tree Classifier kernel) 
-8) Naive Bayes
-9) Quadratic Discriminant Analysis(QDA)
+1. Support Vector Machine (SVM)
+2. Logistic Regression
+3. Random Forest
+4. Nearest Neighbors
+5. Decision Tree 
+6. Neural Net(MLP)
+7. AdaBoost(Decision Tree Classifier kernel) 
+8. Naive Bayes
+9. Quadratic Discriminant Analysis(QDA)
 
 ## Working
 1. Upload a .csv file.
@@ -63,10 +63,10 @@ By default if any file with wrong file format is provided, the results shown as 
 
 Specificatons of the file:
 
-1) 1st row should have data headings, i.e., column headings.
-2) The last column should contain the corresponding data labels in an ascending order starting from index 1 (N.B. The number of clusters is calculated using this column.
-3) File should be strictly in .csv format.
-4) File size should be <=600 KB.
+1. 1st row should have data headings, i.e., column headings.
+2. The last column should contain the corresponding data labels in an ascending order starting from index 1 (N.B. The number of clusters is calculated using this column.
+3. File should be strictly in .csv format.
+4. File size should be <=600 KB.
 
 ## Output
 Dictionary with Accuracy and Clusters centroids alongwith a message showing number of iterations and lowest and highest errors.
@@ -140,3 +140,10 @@ The app takes approx 10 to 15 minutes to load for the first time you open the ap
 
 ## Raw data
 To view your data select "Show Raw data" option.
+
+# Contact
+
+![https://www.linkedin.com/in/avishek-garain-2b5369152/](linkedin_icon.png)
+![https://www.github.com/garain/](github_icon.png)
+![https://www.facebook.com/AvishekGarain](fb_icon.png)
+
