@@ -1,16 +1,12 @@
 ## Welcome to my Works
-
-<!You can use the [editor on GitHub](https://github.com/garain/Works/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-```markdown
-Syntax highlighted code block
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-!>
+   ____   _                     _        _     _                            __        __         _            _                                  _                         _                              _     _                                    _   _   _ 
+  / ___| | |__     ___    ___  | | __   | |_  | |__     ___   ___    ___    \ \      / /   ___  | |__        / \     _ __    _ __    ___      __| |   ___  __   __   ___  | |   ___    _ __     ___    __| |   | |__    _   _     _ __ ___     ___  | | | | | |
+ | |     | '_ \   / _ \  / __| | |/ /   | __| | '_ \   / _ \ / __|  / _ \    \ \ /\ / /   / _ \ | '_ \      / _ \   | '_ \  | '_ \  / __|    / _` |  / _ \ \ \ / /  / _ \ | |  / _ \  | '_ \   / _ \  / _` |   | '_ \  | | | |   | '_ ` _ \   / _ \ | | | | | |
+ | |___  | | | | |  __/ | (__  |   <    | |_  | | | | |  __/ \__ \ |  __/     \ V  V /   |  __/ | |_) |    / ___ \  | |_) | | |_) | \__ \   | (_| | |  __/  \ V /  |  __/ | | | (_) | | |_) | |  __/ | (_| |   | |_) | | |_| |   | | | | | | |  __/ |_| |_| |_|
+  \____| |_| |_|  \___|  \___| |_|\_\    \__| |_| |_|  \___| |___/  \___|      \_/\_/     \___| |_.__/    /_/   \_\ | .__/  | .__/  |___/    \__,_|  \___|   \_/    \___| |_|  \___/  | .__/   \___|  \__,_|   |_.__/   \__, |   |_| |_| |_|  \___| (_) (_) (_)
+                                                                                                                    |_|     |_|                                                       |_|                               |___/                                  
+```
 # Machine Learning Metrics Visualizer App
 
 This is a machine learning metrics visualizer tool for binary and multi-class classification of data.
