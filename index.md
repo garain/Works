@@ -15,7 +15,7 @@ For multi-class classification, only Confusion Matrix can be visualized.
 
 ## App link
 
-https://machine-learning-visualizer.herokuapp.com/
+[https://machine-learning-visualizer.herokuapp.com/](https://machine-learning-visualizer.herokuapp.com/)
 
 ## Guidelines if facing problems to open site
 
@@ -56,7 +56,7 @@ This is the web app created as an implementation of the publication "K-RMS Algor
 If we want to deploy our project to Heroku, we need a **Web Server Gateway Interface** (WSGI) such as **Gunicorn**.
 
 ## App link
-https://clustering-app-krms.herokuapp.com/
+[https://clustering-app-krms.herokuapp.com/](https://clustering-app-krms.herokuapp.com/)
 
 ## Usage of the app
 By default if any file with wrong file format is provided, the results shown as output are calculated on the Iris dataset.
@@ -74,7 +74,7 @@ Dictionary with Accuracy and Clusters centroids alongwith a message showing numb
 ## Publication details
 
 ### DOI
-https://doi.org/10.1016/j.procs.2020.03.188
+[https://doi.org/10.1016/j.procs.2020.03.188](https://doi.org/10.1016/j.procs.2020.03.188)
 
 ### Authors
 Avishek Garain, Dipankar Das
@@ -117,7 +117,7 @@ Garain, A. and Das, D., 2020. K-RMS Algorithm. Procedia Computer Science, 167, p
 
 ## Web app link
 
-https://market-stocks-analyzer.herokuapp.com/
+[https://market-stocks-analyzer.herokuapp.com/](https://market-stocks-analyzer.herokuapp.com/)
 
 ## About the Project
 
@@ -127,13 +127,13 @@ Use the menus to plot the required plots according to the parameters available.
 
 ## Link to download stock codes
 
-https://investexcel.net/wp-content/uploads/2015/01/Yahoo-Ticker-Symbols-September-2017.zip
+[https://investexcel.net/wp-content/uploads/2015/01/Yahoo-Ticker-Symbols-September-2017.zip](https://investexcel.net/wp-content/uploads/2015/01/Yahoo-Ticker-Symbols-September-2017.zip)
 
 # Collision Data Visualizer Tool
 This is a collision data visualizer tool for visualizing vehicle collision data in New York City.
 
 ## App link
-https://collision-data-visualizer.herokuapp.com/
+[https://collision-data-visualizer.herokuapp.com/](https://collision-data-visualizer.herokuapp.com/)
 
 ## Notes
 The app takes approx 10 to 15 minutes to load for the first time you open the app. Thereafter whenever you go to the link it runs smoothly and very fast, as the data files get cached in the browser. There is option to clear the cache. The visualization is for 10999 rows of data.
