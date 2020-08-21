@@ -143,4 +143,4 @@ To view your data select "Show Raw data" option.
 
 # Contact
 
-<a href="https://www.linkedin.com/in/avishek-garain-2b5369152/"><img src="linkedin_icon.png" width="100"/></a> <a href="https://www.github.com/garain/"><img src="github_icon.png" width="100"/></a> <a href="https://www.facebook.com/AvishekGarain"><img src="fb_icon.png" width="60"/></a> 
+<a href="https://www.linkedin.com/in/avishek-garain-2b5369152/"><img src="linkedin_icon.png" width="100"/></a> <a href="https://www.github.com/garain/"><img src="github_icon.png" width="100"/></a> <a href="https://www.facebook.com/AvishekGarain"><img src="fb_icon.png" width="60"/></a> <a href="https://scholar.google.com/citations?user=ESDY-skAAAAJ&hl=en"><img src="google-scholar.png" width="60"/></a> <a href="https://www.twitter.com/GarainAvishek"><img src="twitter.png" width="60"/></a> 
