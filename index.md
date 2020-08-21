@@ -143,7 +143,7 @@ To view your data select "Show Raw data" option.
 
 # Contact
 
-![https://www.linkedin.com/in/avishek-garain-2b5369152/](linkedin_icon.png)
-![https://www.github.com/garain/](github_icon.png)
-![https://www.facebook.com/AvishekGarain](fb_icon.png)
+![https://www.linkedin.com/in/avishek-garain-2b5369152/](linkedin_icon.png=50x)
+![https://www.github.com/garain/](github_icon.png=50x)
+![https://www.facebook.com/AvishekGarain](fb_icon.png=50x)
 
