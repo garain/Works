@@ -79,24 +79,6 @@ Dictionary with Accuracy and Clusters centroids alongwith a message showing numb
 ### Authors
 Avishek Garain, Dipankar Das
 
-### Publication date
-2020/1/1
-
-### Journal
-Procedia Computer Science
-
-### Volume
-167
-
-### Pages
-113-120
-
-### Publisher
-Elsevier
-
-### Abstract
-Clustering is an unsupervised learning problem in the domain of machine learning and data science, where information about data instances may or may not be given. K-Means algorithm is one such clustering algorithms, the use of which is widespread. But, at the same time K-Means suffers from a few disadvantages such as low accuracy and high number of iterations. In order to rectify such problems, a modified K-Means algorithm has been demonstrated, named as K-RMS clustering algorithm in the present work. The modifications have been done so that the accuracy increases albeit with less number of iterations and specially performs well for decimal data compared to K-Means. The modified algorithm has been tested on 12 datasets obtained from UCI web archive, and the results gathered are very promising.
-
 ### Bibtex
 
 @article{garain2020k,
@@ -136,10 +118,28 @@ This is a collision data visualizer tool for visualizing vehicle collision data 
 [https://collision-data-visualizer.herokuapp.com/](https://collision-data-visualizer.herokuapp.com/)
 
 ## Notes
-The app takes approx 10 to 15 minutes to load for the first time you open the app. Thereafter whenever you go to the link it runs smoothly and very fast, as the data files get cached in the browser. There is option to clear the cache. The visualization is for 10999 rows of data.
+The app takes approx 10 to 15 seconds to load for the first time you open the app. Thereafter whenever you go to the link it runs smoothly and very fast, as the data files get cached in the browser. There is option to clear the cache. The visualization is for 10999 rows of data.
 
 ## Raw data
 To view your data select "Show Raw data" option.
+
+# Text2Image Converter
+This app is capable of generating images from text in 4 formats with various types of customizations for the font with multi-lingual support.
+
+## App Link
+[http://www.garain.vision/text2image/](http://www.garain.vision/text2image/)
+
+## Customizations
+
+1. Font style
+2. Background color
+3. Bold & Italics
+4. Font size
+5. Height and Width
+6. Text alignment in image
+7. Shadow
+8. Any language
+9. Support for mathematical symbols
 
 # Contact
 
