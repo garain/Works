@@ -191,6 +191,22 @@ OUTPUT IMAGE:
 
 ![alt text](https://github.com/djdhar/Handwritten-and-Printed-Text-Classification-in-Doctors-Prescription/blob/master/guguyg.png)
 
+# Weather Forecast App
+
+## Introduction
+Get your weather information just by click of a button.
+
+[Link to app](https://garain.vision/Authentication/weatherForecast)
+
+## Working
+It gives precise weather information by making use of ip information. It takes approx time ranging from 1s to 10s depending on network speed.
+
+## Facilities
+
+1. Precise weather information.
+2. Fast and lightweight.
+3. Responsive giving 3-day forecast for smartphones and 7-day forecast on PCs.
+4. Responsive widget with realtime change in graphics based on weather.
 
 
 # Contact
