@@ -170,12 +170,12 @@ $ pip install joblib
 $ pip install pickle-mixin
 
 $ pip install pdbpp
-
+```
 Then run the script
-
+```bash
 $ python3 tkinteropen.py
 ```
-keep the data.joblib in the same directory with the tkinteropen.py
+Keep the data.joblib in the same directory with the tkinteropen.py
 
 # Weather Forecast App
 
