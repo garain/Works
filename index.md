@@ -141,6 +141,57 @@ This app is capable of generating images from text in 4 formats with various typ
 8. Any language
 9. Support for mathematical symbols
 
+# Handwritten-and-Printed-Text-Classification-in-Doctors-Prescription [![HitCount](http://hits.dwyl.com/garain/Handwritten-and-Printed-Text-Classification-in-Doctors-Prescription.svg)](http://hits.dwyl.com/garain/Handwritten-and-Printed-Text-Classification-in-Doctors-Prescription)
+Localization of Handwritten and Printed Text in doctors' prescription. It consists of two stages, first retrival of possible Text Regions in the prescriptions overcoming the challenges like lines, dotted lines and tables and finally classification of them using Machine Learning.
+
+[Link to app](https://garain.vision/Authentication/prescription)
+
+To run the GUI
+
+First install the utilities:
+
+$ sudo add-apt-repository main
+
+$ sudo apt-get install python3.6
+
+$ pip install Pillow
+
+$ pip install opencv-python
+
+$ pip install numpy
+
+$ pip install pandas
+
+$ pip install sklearn
+
+$ pip install joblib
+
+$ pip install pickle-mixin
+
+$ pip install pdbpp
+
+Then run the script
+
+$ python3 tkinteropen.py
+
+keep the data.joblib in the same directory with the tkinteropen.py
+
+Here is an example.
+
+INPUT IMAGE:
+
+![alt text](https://github.com/djdhar/Handwritten-and-Printed-Text-Classification-in-Doctors-Prescription/blob/master/sample12.jpg)
+
+GUI SNAPSHOT
+
+![alt text](https://github.com/djdhar/Handwritten-and-Printed-Text-Classification-in-Doctors-Prescription/blob/master/dj.png)
+
+OUTPUT IMAGE:
+
+![alt text](https://github.com/djdhar/Handwritten-and-Printed-Text-Classification-in-Doctors-Prescription/blob/master/guguyg.png)
+
+
+
 # Contact
 
 <a href="https://www.linkedin.com/in/avishek-garain-2b5369152/"><img src="icon_linkedin.png" width="60"/></a> <a href="https://www.github.com/garain/"><img src="icon_github.png" width="80"/></a> <a href="https://scholar.google.com/citations?user=ESDY-skAAAAJ&hl=en"><img src="icon_google-scholar.png" width="60"/></a> <a href="https://www.facebook.com/avishek.garain.1"><img src="icon_fb.png" width="60"/></a> <a href="https://www.twitter.com/GarainAvishek"><img src="icon_twitter.png" width="60"/></a> <a href="cv_avishek_garain.pdf" download><img src="cv_icon.png" width="60"/></a> 
