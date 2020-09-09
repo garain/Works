@@ -127,7 +127,7 @@ To view your data select "Show Raw data" option.
 This app is capable of generating images from text in 4 formats with various types of customizations for the font with multi-lingual support.
 
 ## App Link
-[http://www.garain.vision/text2image/](http://www.garain.vision/text2image/)
+[Link to app](https://garain.vision/Authentication/text2image)
 
 ## Customizations
 
