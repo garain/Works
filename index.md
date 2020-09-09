@@ -181,15 +181,15 @@ Here is an example.
 
 INPUT IMAGE:
 
-![alt text](https://github.com/djdhar/Handwritten-and-Printed-Text-Classification-in-Doctors-Prescription/blob/master/sample12.jpg)
+![alt text](https://github.com/garain/Handwritten-and-Printed-Text-Classification-in-Doctors-Prescription/blob/master/sample12.jpg)
 
 GUI SNAPSHOT
 
-![alt text](https://github.com/djdhar/Handwritten-and-Printed-Text-Classification-in-Doctors-Prescription/blob/master/dj.png)
+![alt text](https://github.com/garain/Handwritten-and-Printed-Text-Classification-in-Doctors-Prescription/blob/master/dj.png)
 
 OUTPUT IMAGE:
 
-![alt text](https://github.com/djdhar/Handwritten-and-Printed-Text-Classification-in-Doctors-Prescription/blob/master/guguyg.png)
+![alt text](https://github.com/garain/Handwritten-and-Printed-Text-Classification-in-Doctors-Prescription/blob/master/guguyg.png)
 
 # Weather Forecast App
 
