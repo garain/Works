@@ -1,3 +1,4 @@
+<script data-ad-client="ca-pub-7113951020114118" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>	
 ## Welcome to my Works
 ```
    ____   _                     _        _     _                            __        __         _            _                                  _                         _                              _     _                                    _   _   _ 
@@ -198,3 +199,15 @@ It gives precise weather information by making use of ip information. It takes a
 # Contact
 
 <a href="https://www.linkedin.com/in/avishek-garain-2b5369152/"><img src="icon_linkedin.png" width="60"/></a> <a href="https://www.github.com/garain/"><img src="icon_github.png" width="80"/></a> <a href="https://scholar.google.com/citations?user=ESDY-skAAAAJ&hl=en"><img src="icon_google-scholar.png" width="60"/></a> <a href="https://www.facebook.com/avishek.garain.1"><img src="icon_fb.png" width="60"/></a> <a href="https://www.twitter.com/GarainAvishek"><img src="icon_twitter.png" width="60"/></a> <a href="cv_avishek_garain.pdf" download><img src="cv_icon.png" width="60"/></a> 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Ad1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7113951020114118"
+     data-ad-slot="1592829567"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
