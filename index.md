@@ -212,7 +212,7 @@ This app uses the Web Speech API to build a voice powered note app to do 3 thing
 <!--![Voice Note App](assets/img/vna-1.gif)-->
 <br>
 
-[Demo - Click Here](https://garain.vision/VoiceNotes-App) - __Best Used with Chrome__
+[Link to App - Click Here](https://garain.vision/Authentication/voicenotes) - __Best Used with Chrome__
 
 __Note:__ On Chrome, using Speech Recognition on a web page involves a server-based recognition engine. Your audio is sent to a web service for recognition processing, so it won't work offline.
 <br>
