@@ -195,7 +195,34 @@ It gives precise weather information by making use of ip information. It takes a
 3. Responsive giving 3-day forecast for smartphones and 7-day forecast on PCs.
 4. Responsive widget with realtime change in graphics based on weather.
 
-## Voice Note App
+
+# GitSub
+
+<h1> <img src="https://github.com/garain/GitSub/raw/master/res/images/downgit.png" width="20" height=auto /> GitSub </h1>
+
+#### Create GitHub Resource Download Link
+
+With this tool you can directly download or create download link to any GitHub **public directory or file**.
+
+### Website
+
+[GitSub ↑](https://gitsub.garain.vision)
+
+##### Advanced Usage
+
+A typical download URL will look like this- `https://gitsub.garain.vision/#/home?url=<link>&fileName=<name>&rootDirectory=<true or false or name>`
+
+Now, if you want to download this directory- **`https://github.com/garain/GitSub/tree/master/res/images`** with this file name- **`DownGit-Images.zip`** and this root directory name- **`ImagesOfDownGit`**, then the URL will be- https://gitsub.garain.vision/#/home?url=https://github.com/garain/GitSub/tree/master/res/images&fileName=DownGit-Images&rootDirectory=ImagesOfDownGit
+
+In default, value of `fileName` and `rootDirectory` is set to the name of the downloading file or directory. If you do not want to add the directory itself in the zip, then set `rootDirectory=false`. Like: this link- https://gitsub.garain.vision/#/home?url=https://github.com/garain/GitSub/tree/master/res/images&rootDirectory=false, will download a file named **`images.zip`**; however the root directory- `"images"`, will not be included in the zip.
+
+If you want to download file- **`https://github.com/garain/GitSub/blob/master/res/images/downgit.png`** with name- **`DownGitIcon.zip`**, then the link will be- https://gitsub.garain.vision/#/home?url=https://github.com/garain/GitSub/blob/master/res/images/downgit.png&fileName=DownGitIcon
+
+### License
+<a rel="license" href="https://opensource.org/licenses/MIT"><img alt="MIT License" src="https://cloud.githubusercontent.com/assets/5456665/18950087/fbe0681a-865f-11e6-9552-e59d038d5913.png" width="60em" height=auto/></a><br/><a href="https://github.com/garain/GitSub">DownGit</a> is licensed under <a rel="license" href="https://opensource.org/licenses/MIT">MIT License</a>.
+
+
+# Voice Note App
 ### Converting from Speech to Text with JavaScript
 
 The purpose of this app is to experiment with the Web Speech API which enables you to incorporate voice data into web apps. The Web Speech API has two parts: SpeechSynthesis (Text-to-Speech), and SpeechRecognition (Asynchronous Speech Recognition.)
