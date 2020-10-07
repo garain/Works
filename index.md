@@ -206,7 +206,7 @@ With this tool you can directly download or create download link to any GitHub *
 
 ### Website
 
-[GitSub ↑](https://gitsub.garain.vision)
+[GitSub ↑](https://garain.vision/Authentication/gitsub)
 
 ##### Advanced Usage
 
