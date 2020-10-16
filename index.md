@@ -225,8 +225,7 @@ Search for Tweets and download the data labeled with it's Polarity in CSV format
 
 View Live at [https://twitter-sentiment-analyze.herokuapp.com/](https://twitter-sentiment-csv.herokuapp.com/)
 
-[![](http://i.imgur.com/H78FZUX.png)](http://i.imgur.com/H78FZUX.png)
-
+<img src="tweet-sentiment-analyze.png"/>
 ## Notes
 
 1. At max 100 tweets are returned for each query due to twitter rate limit.
