@@ -219,6 +219,23 @@ If you want to download file- **`https://github.com/garain/GitSub/blob/master/re
 ### License
 <a rel="license" href="https://opensource.org/licenses/MIT"><img alt="MIT License" src="https://cloud.githubusercontent.com/assets/5456665/18950087/fbe0681a-865f-11e6-9552-e59d038d5913.png" width="60em" height=auto/></a><br/><a href="https://github.com/garain/GitSub">DownGit</a> is licensed under <a rel="license" href="https://opensource.org/licenses/MIT">MIT License</a>.
 
+# Tweet Sentiment Analyzer
+
+Search for Tweets and download the data labeled with it's Polarity in CSV format.
+
+View Live at [https://twitter-sentiment-analyze.herokuapp.com/](https://twitter-sentiment-csv.herokuapp.com/)
+
+[![](http://i.imgur.com/H78FZUX.png)](http://i.imgur.com/H78FZUX.png)
+
+## Notes
+
+1. At max 100 tweets are returned for each query due to twitter rate limit.
+2. All the tweets are the latest tweets.
+3. Sentiment labelling is done using TextBlob.
+
+
+## [License MIT © Avishek Garain](https://rhnvrm.mit-license.org/)
+
 
 # Voice Note App
 ### Converting from Speech to Text with JavaScript
