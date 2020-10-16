@@ -225,7 +225,7 @@ Search for Tweets and download the data labeled with it's Polarity in CSV format
 
 View Live at [https://twitter-sentiment-analyze.herokuapp.com/](https://twitter-sentiment-csv.herokuapp.com/)
 
-<img src="tweet-sentiment-analyze.png"></img>
+<img src="tweet-sentiment-analyze.PNG"/>
 
 ## Notes
 
