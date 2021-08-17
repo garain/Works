@@ -63,7 +63,7 @@ This is the web app created as an implementation of the publication "K-RMS Algor
 If we want to deploy our project to Heroku, we need a **Web Server Gateway Interface** (WSGI) such as **Gunicorn**.
 
 ## App link
-[Link to app](https://garain.vision/Authentication/clusteringKRMS)
+[Link to app](https://garain.github.io/Authentication/clusteringKRMS)
 
 ## Usage of the app
 By default if any file with wrong file format is provided, the results shown as output are calculated on the Iris dataset.
@@ -106,7 +106,7 @@ Garain, A. and Das, D., 2020. K-RMS Algorithm. Procedia Computer Science, 167, p
 
 ## Web app link
 
-[Link to app](https://garain.vision/Authentication/stockanalyze)
+[Link to app](https://garain.github.io/Authentication/stockanalyze)
 
 ## About the Project
 
@@ -122,7 +122,7 @@ Use the menus to plot the required plots according to the parameters available.
 This is a collision data visualizer tool for visualizing vehicle collision data in New York City.
 
 ## App link
-[Link to app](https://garain.vision/Authentication/collisionvisualize)
+[Link to app](https://garain.github.io/Authentication/collisionvisualize)
 
 ## Notes
 The app takes approx 10 to 15 seconds to load for the first time you open the app. Thereafter whenever you go to the link it runs smoothly and very fast, as the data files get cached in the browser. There is option to clear the cache. The visualization is for 10999 rows of data.
@@ -134,7 +134,7 @@ To view your data select "Show Raw data" option.
 This app is capable of generating images from text in 4 formats with various types of customizations for the font with multi-lingual support.
 
 ## App Link
-[Link to app](https://garain.vision/Authentication/text2image)
+[Link to app](https://garain.github.io/Authentication/text2image)
 
 ## Customizations
 
@@ -152,7 +152,7 @@ This app is capable of generating images from text in 4 formats with various typ
 
 Localization of Handwritten and Printed Text in doctors' prescription. It consists of two stages, first retrival of possible Text Regions in the prescriptions overcoming the challenges like lines, dotted lines and tables and finally classification of them using Machine Learning.
 
-[Link to app](https://garain.vision/Authentication/prescription)
+[Link to app](https://garain.github.io/Authentication/prescription)
 
 To run the GUI
 
@@ -189,7 +189,7 @@ Keep the data.joblib in the same directory with the tkinteropen.py
 ## Introduction
 Get your weather information just by click of a button.
 
-[Link to app](https://garain.vision/Authentication/weatherForecast)
+[Link to app](https://garain.github.io/Authentication/weatherForecast)
 
 ## Working
 It gives precise weather information by making use of ip information. It takes approx time ranging from 1s to 10s depending on network speed.
@@ -210,7 +210,7 @@ With this tool you can directly download or create download link to any GitHub *
 
 ### Website
 
-[GitSub ↑](https://garain.vision/Authentication/gitsub)
+[GitSub ↑](https://garain.github.io/Authentication/gitsub)
 
 ##### Advanced Usage
 
@@ -229,7 +229,7 @@ If you want to download file- **`https://github.com/garain/GitSub/blob/master/re
 
 Search for Tweets and download the data labeled with it's Polarity in CSV format.
 
-View Live [here](https://garain.vision/Authentication/TweetSentimentAnalyze)
+View Live [here](https://garain.github.io/Authentication/TweetSentimentAnalyze)
 
 <img src="tweet-sentiment-analyze.PNG"/>
 
@@ -260,7 +260,7 @@ This app uses the Web Speech API to build a voice powered note app to do 3 thing
 <!--![Voice Note App](assets/img/vna-1.gif)-->
 <br>
 
-[Link to App - Click Here](https://garain.vision/Authentication/voicenotes) - __Best Used with Chrome__
+[Link to App - Click Here](https://garain.github.io/Authentication/voicenotes) - __Best Used with Chrome__
 
 __Note:__ On Chrome, using Speech Recognition on a web page involves a server-based recognition engine. Your audio is sent to a web service for recognition processing, so it won't work offline.
 <br>
