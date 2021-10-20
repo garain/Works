@@ -22,7 +22,7 @@ For multi-class classification, only Confusion Matrix can be visualized.
 
 ## App link
 
-[Link to app](https://garain.vision/Authentication/mlvisualize)
+[Link to app](https://garain.github.io/Authentication/mlvisualize)
 
 ## Guidelines if facing problems to open site
 
